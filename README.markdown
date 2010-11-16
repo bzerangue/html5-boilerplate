@@ -2,6 +2,10 @@
 
 ## Changelog:
 
+### November 15th, 2010
+
+* Added xsl folder with master.xsl (XSLT Stylesheet based on HTML5 Boilerplate index.html)
+
 ### v.0.9.5 : October 25th, 2010
 
 Major changes:
